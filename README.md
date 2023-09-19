@@ -3,6 +3,17 @@ Airline Passenger Satisfaction
 
 Data Science project for Airline Passenger Satisfaction
 
+Team Members
+==============================
+
+- Anika Chauhan (anika.chauhan@student.uts.edu.au)
+- Anjali Ledade (anjali.k.ledade@student.uts.edu.au)
+- Joseph Reddy Salibindla (joseph.r.salibindla@student.uts.edu.au)
+- Kaushal Kumar Gandla (kaushal.k.gandla@student.uts.edu.au)
+- Kushal Ahuja (kushal.ahuja@student.uts.edu.au)
+- Sahil Kotak (sahil.kotak@student.uts.edu.au) 
+- Varun Singh Chhetri (varun.s.chhetri@student.uts.edu.au)
+
 Project Organization
 ------------
 
