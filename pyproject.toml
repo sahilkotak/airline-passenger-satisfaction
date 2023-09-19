@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "airline-passenger-satisfaction"
+version = "0.1.0"
+description = "Data science project to predict airline passengers satisfaction."
+authors = ["sahilkotak <40324523+sahilkotak@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "airline_passenger_satisfaction"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "3.6.3"
+scikit-learn = "1.2.2"
+pandas = "2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
